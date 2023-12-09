@@ -78,7 +78,7 @@ async function checkWeather(city){
             weather_img.src = "https://zeyadsalah686.github.io/Simple-Weather-App/assets/mist.png";
             break;
         case 'Snow':
-            weather_img.src = "https://zeyadsalah686.github.io/Simple-Weather-App/assets/Snow.png";
+            weather_img.src = "https://zeyadsalah686.github.io/Simple-Weather-App/assets/snow.png";
             break;
 
     }
